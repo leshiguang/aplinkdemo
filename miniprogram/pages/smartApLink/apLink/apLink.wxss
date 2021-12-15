@@ -1,0 +1,55 @@
+/* miniprogram/pages/smartApLink/apLink/apLink.wxss */
+@import '../../../style/iconfont.wxss';
+
+.icon-wifi {
+  display: block;
+  font-size: 240rpx;
+  height: 240rpx;
+  line-height: 240rpx;
+  margin: 55rpx 0;
+}
+
+.ssid {
+  display: block;
+  font-size: 17px;
+  min-height: 27px;
+}
+
+.help {
+  display: block;
+  margin-top:20rpx;
+  color:#888888;
+  text-align:center;
+  font-size:14px;
+}
+
+.form {
+  margin-top: 50rpx;
+}
+
+.current-wifi, .current-wifi-lost {
+  text-align: center;
+}
+
+.current-wifi .icon-wifi {
+  color: #67D14F;
+}
+
+.current-wifi-lost .icon-wifi {
+  color: #C9C9C9;
+}
+
+.weui-label {
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.weui-btn-area {
+  margin-top: 50rpx;
+}
+.weui-input {
+  font-size: 14px;
+}
+
+.icon-eye_open, .icon-eye_closed {
+  font-size: 25px;
+}

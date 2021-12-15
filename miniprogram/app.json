@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/smartApLink/index/index",
+    "pages/smartApLink/guide/guide",
+    "pages/smartApLink/apLink/apLink",
+    "pages/smartApLink/deviceList/deviceList"
+  ],
+  "window": {
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#eeeeee",
+    "navigationBarTitleText": "AP配网",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
